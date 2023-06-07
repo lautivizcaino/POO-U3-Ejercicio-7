@@ -1,0 +1,16 @@
+1
+1
+4
+20
+Palacios
+Exequiel
+25000
+5
+Licenciatura en Ciencias de la Computacion
+2
+3
+Informatica
+b
+V
+1500
+9
